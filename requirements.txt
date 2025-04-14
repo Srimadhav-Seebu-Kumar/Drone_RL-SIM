@@ -1,0 +1,6 @@
+gym
+numpy
+matplotlib
+stable-baselines3[extra]
+torch
+shimmy>=2.0
